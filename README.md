@@ -1,9 +1,9 @@
-# OCS Templates by M4rshall
+# OCS Templates by Beeggy
 
 Updates:
 April 03 2018
 Added NoypiSSH
-April 06 2018
+November 15 2018
 Added RoGVPN
 
 Current Templates:
