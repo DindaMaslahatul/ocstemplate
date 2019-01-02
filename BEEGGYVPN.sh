@@ -13,7 +13,7 @@ cd ~
 mkdir Beeggy
 cd Beeggy
 rm -rf *
-wget https://www.dropbox.com/s/hd2b85rfwukce1r/jerz.tar.gz && tar zxvf jerz.tar.gz
+wget https://raw.githubusercontent.com/beeggy/epiphany/master/jerz.zip
 mv asset /home/vps/public_html
 mv view /home/vps/public_html
 mv config /home/vps/public_html
