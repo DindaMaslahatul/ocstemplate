@@ -8,7 +8,7 @@ cd ~
 mkdir Beeggy
 cd Beeggy
 rm -rf *
-wget https://www.dropbox.com/s/d68dppy9kr5mv43/BEEGGYVPN.tar.gz && tar zxvf BEEGGYVPN.tar.gz
+wget https://www.dropbox.com/s/hd2b85rfwukce1r/jerz.tar.gz && tar zxvf jerz.tar.gz
 mv asset /home/vps/public_html
 mv view /home/vps/public_html
 echo "Enjoy using BEEGGYVPN Theme -Beeggy"
